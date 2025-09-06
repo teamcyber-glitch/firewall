@@ -54,3 +54,9 @@
 /media/storm.js
 /media/tls.js
 /media/ua.txt
+/root/index3.js
+/root/clear.sh
+/root/apis3.json
+/root/api_keys3.json
+/root/firewall-api.js
+/root/index3.html
