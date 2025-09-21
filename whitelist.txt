@@ -1,5 +1,4 @@
 /root/H2KILLER.js
-/root/TCP
 /root/autoUpdate.sh
 /root/ban.txt
 /root/check.sh
