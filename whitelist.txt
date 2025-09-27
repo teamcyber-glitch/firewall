@@ -24,7 +24,7 @@
 /root/ua.txt
 /media/MixBill.js
 /media/bypass.js
-/media/browser/cf-pro.js
+/media/cf-pro.js
 /media/check.js
 /media/check.sh
 /media/filter.py
