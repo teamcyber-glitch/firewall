@@ -1,1 +1,1 @@
-ulimit -u 99999
+sudo systemctl start nginx
