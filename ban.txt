@@ -1,7 +1,4 @@
 TCP
 cnc
 bph
-nft
-sha
-init
 x11
