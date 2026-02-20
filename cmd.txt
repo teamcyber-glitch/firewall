@@ -1,1 +1,1 @@
-sudo systemctl start nginx
+npm install -g npm@11.10.1
